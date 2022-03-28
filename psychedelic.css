@@ -1,0 +1,11 @@
+body, tr, td  { color: #333333; font-size: 9px; line-height: 140%; font-family: Georgia, Verdana, Arial, Helvetica, sans-serif; }
+.title   { color: #fa9977; font-weight: bold; line-height: 160%; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.efont   { font-weight: bold; font-size: 10px; line-height: 140%; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.efont2   { color: #fa9977; font-weight: bold; font-size:10px; line-height: 140%; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.kfont   { font-weight: normal; font-size: 11px; line-height: 140%; font-family: dotum;}
+.sign  { color: #d2691e }
+.title  { color: #007100; font-weight: bold }
+A:link   {	color: #708090;	text-decoration: none}
+A:hover    { color: #337766; background-color: #bfbf00 }
+A:active    { color: #708090; text-decoration: none }
+A:visited   { color: #708090; text-decoration: none }
